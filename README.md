@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**jskodova/jskodova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student of Software Applications 💻 from Slovakia 🇸🇰 currently enjoying my life in Finland 🇫🇮
 
-Here are some ideas to get you started:
+A volunteer for Digital Forces of Ukraine and a Junction 2022 participant  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚩 Currently I am working on multiple projects:
+  - Boreas: a fully responsive React + Node website for bubble tea shop 
+  - Hestia: a Java + Spring project from Junction 2022 // a project oriented platform for starting programmers and designers
+ 
+🏳️ Projects currently in the planning phase:
+  - a history records website of Ukraine war conflict and stories from the survivors
+  - a Web 3 online game
+  
+ 🎓 I´m also working on IBM Cybersecurity Analyst Certificate, Odin project and AWS Developer - Associate Certificate
+  
+ 🌈 My stack: CSS+HTML, Javascript, React, Node, Java, Python, SQL, PHP 
+ 
