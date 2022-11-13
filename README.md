@@ -1,6 +1,6 @@
 ### System.out.println("Hello there!"); 👋
 
-I am Jarka, a student of Software Applications 💻 from Slovakia 🇸🇰 currently enjoying my life in Finland 🇫🇮
+I am Jarka, a student and an assistant of 💻 Software Applications from Slovakia 🇸🇰 currently enjoying my life in Finland 🇫🇮
 
 <img align="right" margin-top="-5" width="300" height="300" src="https://github.com/jskodova/jskodova/blob/main/programmer_image-removebg-preview.png">
   
