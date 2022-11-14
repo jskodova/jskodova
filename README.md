@@ -8,6 +8,7 @@ A volunteer for Digital Forces of Ukraine, a Junction 2022 participant and a stu
 
 🚩 Currently I am working on multiple projects:
   - <a href="https://github.com/jskodova/Boreas---React-Node">Boreas</a>: a fully responsive React + Node website for bubble tea shop 
+  - <a href="https://github.com/jskodova/Keylogger---JS">JS Keylogger</a>: a keylogger using JS + PHP, sending email, getting computer info, clipboard contents, screenshots, encryption 
   - <a href="https://github.com/jskodova/Hestia---Java-Spring">Hestia</a>: a Java + Spring project from Junction 2022 // a project oriented platform for starting programmers and designers
  
 🏳️ Projects currently in the planning phase:
