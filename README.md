@@ -1,10 +1,10 @@
 ### System.out.println("Hello there!"); 👋
 
-I am Jarka, a student and an assistant of 💻 Software Applications from Slovakia 🇸🇰 currently enjoying my life in Finland 🇫🇮
+I am Jarka, a student of 💻 Software Applications from Slovakia 🇸🇰 currently enjoying my life in Finland 🇫🇮
 
 <img align="right" margin-top="-5" width="300" height="300" src="https://github.com/jskodova/jskodova/blob/main/programmer_image-removebg-preview.png">
   
-A volunteer for Digital Forces of Ukraine and a Junction 2022 participant  
+A volunteer for Digital Forces of Ukraine, a Junction 2022 participant and a student assistant at Hamk 
 
 🚩 Currently I am working on multiple projects:
   - <a href="https://github.com/jskodova/Boreas---React-Node">Boreas</a>: a fully responsive React + Node website for bubble tea shop 
